@@ -1,4 +1,4 @@
-Ey, from here say 👋 @mglnglBA.
+Ey, from here I say 👋 @mglnglBA.
 
 I’m interested 👀 in online advertising, internet measurements, data analysis and machine learning; and currently learning about computer networking and data science while doing a PhD at uc3m collaborating with IMDEA Networks.
 
